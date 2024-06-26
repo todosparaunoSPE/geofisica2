@@ -12,6 +12,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+# Título de la aplicación
+st.title('Simulación de Propagación de Fracturas en Rocas')
+
 # Parámetros del modelo
 nx = 50  # Número de celdas en el eje x
 ny = 50  # Número de celdas en el eje y
