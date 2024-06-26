@@ -171,6 +171,11 @@ with st.sidebar:
     - **Número de pasos de propagación de fractura:** Número total de iteraciones para la simulación.
     - **Intervalo de guardado:** Frecuencia con la que se actualiza el mapa de calor durante la simulación.
     """)
+    
+# Copyright
+st.markdown("""
+---
+© 2024 jahoperi. Todos los derechos reservados.
+""")
 
-© 2024 Tu Nombre o Nombre de tu Empresa. Todos los derechos reservados.
             
