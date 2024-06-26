@@ -172,11 +172,5 @@ with st.sidebar:
     - **Intervalo de guardado:** Frecuencia con la que se actualiza el mapa de calor durante la simulación.
     """)
 
-
+© 2024 Tu Nombre o Nombre de tu Empresa. Todos los derechos reservados.
             
-# Aviso de derechos de autor
-st.sidebar.markdown("""
-    ---
-    © 2024. Todos los derechos reservados.
-    Creado por jahoperi
-""")    
